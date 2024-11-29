@@ -76,9 +76,6 @@ Your percentage of winning the lottery is: 0.617%
 ```
 
 ## Banner 🐰
-
-The script displays a fun bunny banner when generating tickets!
-
 ```plaintext
                    *            ,            *     2024
     *            .             /|      __.
